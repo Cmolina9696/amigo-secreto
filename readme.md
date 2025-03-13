@@ -1,0 +1,1 @@
+esta app esta desarrollada para adivinar un amigo de los muchos que desees ingresar.
